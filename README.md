@@ -1,10 +1,10 @@
 
-<img src="https://github.com/lacklux/lacklux/blob/main/header.png">
+<img src="">
 
 - 🔭 I’m currently working as a freelancer
 - 🌱 I’m currently learning Data analytics,AI,ML, Cyber security 
 - 👯 I’m looking to collaborate on a data analysis related task
-- 🤔 I’m looking for help with work on data analysis  and web scrapping and automation job
+- 🤔 I’m looking for help with work on data analysis, web scrapping, automation job and ML
 - 💬 Ask me about anything related to python
 - 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/-sukobig4l-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:adesanyasunkanmi05@gmail.com)](mailto:adesanyasunkanmi05@gmail.com)
 
@@ -18,7 +18,7 @@
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=071A2C" alt="LinkedIn"/>
   </a>
  
-  <a href="https://medium.com/@sprydeveloper" target="_blank">
+  <a href="https://medium.com/@adesanyasunkanmi05" target="_blank">
     <img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white&color=071A2C" alt="Medium"/>
   </a>
     
