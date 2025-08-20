@@ -1,5 +1,5 @@
 
-<img src="">
+<img src="https://github.com/Sukobig4l/Sukobig4l/blob/main/cover_photo.png">
 
 - 🔭 I’m currently working as a freelancer
 - 🌱 I’m currently learning Data analytics,AI,ML, Cyber security 
