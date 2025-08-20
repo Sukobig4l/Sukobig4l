@@ -1,7 +1,8 @@
 
 <img src="https://github.com/Sukobig4l/Sukobig4l/blob/main/cover_photo.png">
 
-- 🔭 I’m currently working as a freelancer
+- 🎓 I’m currently pursuing *B.Sc. in Computer Science* at the University of Ilorin, Nigeria
+- 🔭 I’m working as a freelancer
 - 🌱 I’m currently learning Data analytics,AI,ML, Cyber security 
 - 👯 I’m looking to collaborate on a data analysis related task
 - 🤔 I’m looking for help with work on data analysis, web scrapping, automation job and ML
